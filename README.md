@@ -3,7 +3,7 @@ This is the list of C# learning resources that I have been compiling since I sta
 
 As you might expect, I haven't read all of the books mentioned below. Yet my list is based on plenty of recommendations and discussions on Reddit, Quora, Stackoverflow and many other websites. 
 
-Here are personal recommendations on starting out with C#:
+Here are my personal recommendations on starting out with C#:
 
  - If C# is your first programming language, start with The C# Player's Guide. This is a very good introduction to both programming and the C# language. This book, however, is no similar to the famous Head First series (which I don't like). You will not see any funny sketches (but there's plenty of humour). Nevertheless, having read The C# Player's Guide you can proceed with a more comprehensive and advanced book to expand your knowledge.
  
