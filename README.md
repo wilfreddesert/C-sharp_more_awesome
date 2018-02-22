@@ -1,5 +1,17 @@
 # C-sharp_more_awesome
 This is the list of C# learning resources that I have been compiling since I started learning C# a few months ago. Don't hesitate to come up with suggestions on adding other useful resources like blogs, articles etc. 
+
+As you might expect, I haven't read all of the books mentioned below. Yet my list is based on plenty of recommendations and discussions on Reddit, Quora, Stackoverflow and many other websites. 
+
+Here's my personal recommendation on starting out with C#:
+
+ - If C# is your first programming language, start with The C# Player's Guide. This is a very good introduction to both programming and the C# language. This book, however, is no similar to the famous Head First series (which I don't like). You will not see any funny sketches (but there's plenty of humour). Nevertheless, having read The C# Player's Guide you can proceed with a more comprehensive and advanced book to expand your knowledge.
+ 
+ - If you have some programming background (especially in C-style languages), the best option I can recommend is Pro C# 7 by Troelsen. This book is packed with tons of information not only on C#, but also on a range of adjacent technologies. The author starts from scratch with a long explanation of the history and structure of the programming language, the standard workflow and then gradually builds the foundation for more advanced stuff. 
+ Even if you don't have any programming experience, you can't go wrong with this book. Just don't expect the author to spend a lot of time on explaining how for-loops or conditionals work. 
+
+ - Don't forget that the official documentation is a terrific source of information. Read C# Programming Guide alongside with your book of choice to deepen your understanding. What I like best about MSDN is that there are numerous examples from which you can learn the best practices. 
+
 Best of luck!
 
 ## Beginner
