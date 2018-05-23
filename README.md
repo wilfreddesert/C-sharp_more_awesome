@@ -43,14 +43,14 @@ Best of luck!
  ## Reference
  
  - [MSDN Reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
- - [C# Draft Specification] (https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/)
+ - [C# Draft Specification](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/)
  - [C# 7.0 in a Nutshell](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_1?s=books&ie=UTF8&qid=1519273348&sr=1-1&keywords=C%23+in+a+nutshell) [$]
  - [C# 7.0 Pocket Reference](https://www.amazon.com/7-0-Pocket-Reference-Instant-Programmers/dp/1491988533/ref=sr_1_5?s=books&ie=UTF8&qid=1519273348&sr=1-5&keywords=C%23+in+a+nutshell) [$]
  - [Professional C# 6 and .NET Core 1.0](https://www.amazon.com/Professional-NET-Core-Christian-Nagel/dp/111909660X/ref=pd_sbs_14_3?_encoding=UTF8&pd_rd_i=111909660X&pd_rd_r=B9EKCXS63VCGVN7GXNXR&pd_rd_w=ss9S9&pd_rd_wg=Ate1E&psc=1&refRID=B9EKCXS63VCGVN7GXNXR) [$]
  
  ## Videos
 
- - [C# Fundamentals for Absolute Beginners - MVA] (https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
- - [Tim Corey's Videos on C#] (https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)
- - [Jamie King's Videos] (https://www.youtube.com/channel/UCda_RJU9-xB0Hswcrjn4SKw)
- - 
+ - [C# Fundamentals for Absolute Beginners - MVA](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
+ - [Tim Corey's Videos on C#](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)
+ - [Jamie King's Videos](https://www.youtube.com/channel/UCda_RJU9-xB0Hswcrjn4SKw)
+ 
